@@ -25,7 +25,7 @@ Work the way you want. The recorder can operate in the background or stay handy 
 </details>
 
 <p align="center">
-  <a href="https://github.com/jeffbennington/JB-Audio-Recorder/releases/download/Beta/JB.Audio.Recorder.Setup.exe" target="_blank">
+  <a href="https://github.com/jeffbennington/JB-Audio-Recorder/releases/download/Beta/JB-Audio-Recorder-Windows-Setup-x64.exe" target="_blank">
     <img src="https://github.com/user-attachments/assets/fa007963-61cf-42b7-be8a-ca8cfe6561dd" 
          alt="Download JB Audio Recorder" 
          width="300"> <!-- Укажите здесь нужную ширину -->
