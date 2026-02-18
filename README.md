@@ -23,3 +23,39 @@ Work the way you want. The recorder can operate in the background or stay handy 
   | **Software** | [VC++ Redistributable 2015-2022](https://aka.ms/vs/17/release/vc_redist.x64.exe) |
 
 </details>
+
+<p align="center">
+  <a href="https://github.com/jeffbennington/JB-Audio-Recorder/releases/download/Beta/JB.Audio.Recorder.Setup.exe" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fa007963-61cf-42b7-be8a-ca8cfe6561dd" 
+         alt="Download JB Audio Recorder" 
+         width="300"> <!-- Укажите здесь нужную ширину -->
+  </a>
+</p>
+
+### 🌍 Supported Languages
+
+| Flag | Language | Native Name |
+| :---: | :--- | :--- |
+| 🇷🇺 | **Russian** | Русский |
+| 🇺🇸 | **English** | English |
+| 🇹🇷 | **Turkish** | Türkçe |
+| 🇷🇸 | **Serbian** | Српски |
+| 🇰🇿 | **Kazakh** | Қазақша |
+| 🇵🇹 | **Portuguese** | Português |
+| 🇳🇴 | **Norwegian** | Norsk |
+| 🇫🇷 | **French** | Français |
+| 🇧🇾 | **Belarusian** | Беларуская |
+| 🇺🇦 | **Ukrainian** | Українська |
+| 🇩🇪 | **German** | Deutsch |
+| 🇵🇱 | **Polski** | Polish |
+| 🇪🇸 | **Spanish** | Español |
+| 🇨🇿 | **Czech** | Čeština |
+| 🇨🇳 | **Chinese** | 简体中文 |
+| 🇯🇵 | **Japanese** | 日本語 |
+| 🇰🇷 | **Korean** | 한국어 |
+
+<p align="center">
+  Thank you for your interest in my work!<br>
+  I'll be glad to see you in my Telegram channel <a href="https://t.me/jbprogramms" target="_blank">@jbprogramms</a><br>
+  Sincerely, Jeff Bennington
+</p>
